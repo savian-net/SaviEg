@@ -1,0 +1,1 @@
+﻿SaviEg.exe -w "z:\scratch\SaviEgWork" -p "X:\repos\SasSamples\eg" -m 1000 -o "z:\scratch\SaviEgOut"
