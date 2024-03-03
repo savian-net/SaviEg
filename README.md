@@ -14,7 +14,7 @@ To see the available parameters, execute SaviEg with a /? or a --help at the com
 
 ## Reports
 
-SaviEg will generate reports at a later time. The initial release is to address extracting code to solve a user issue.
+SaviEg generates a simple summary report that can be found in the Work directory after processing. 
 
 ## Logging
 
